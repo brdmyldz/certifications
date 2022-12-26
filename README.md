@@ -1,13 +1,12 @@
-
 # Certifications
 
-This repotisory includes the certifications pages for my portfolio website. The full list of my current certifications are also listed below.
+This repotisory includes the certifications pages for my portfolio website. The full list of my current certifications are also listed below:
 
-
-## freeCodeCamp
+### freeCodeCamp
 
  - [Responsive Web Design](https://www.freecodecamp.org/certification/brdmyldz/responsive-web-design) (HTML5, CSS3)
-
+ 
+&nbsp;
 
 ## Future Ideas/Improvements
 
