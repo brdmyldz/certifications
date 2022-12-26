@@ -1,0 +1,1 @@
+//This will be the script that will be shared from many certificate HTML files
