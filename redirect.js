@@ -1,4 +1,3 @@
-document.getElementById("test").innerHTML = "testing..."
 var secondsHTML = document.getElementById("seconds");
 var currentSeconds = Number(secondsHTML.innerHTML);
 var countdownCall = setInterval(countdown, 1000); 
