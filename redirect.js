@@ -8,6 +8,6 @@ function countdown() {
     if (currentSeconds == 0){
         clearInterval(countdownCall);
     }
-    secondsHTML.innerHTML = currentSecond;
+    secondsHTML.innerHTML = currentSeconds;
     --currentSeconds;
 }
