@@ -1,5 +1,3 @@
-//This will be the script that will be shared from many certificate HTML files
-
 document.getElementById("test").innerHTML = "testing..."
 let secondsHTML = document.getElementById("seconds");
 let currentSeconds = 5;
